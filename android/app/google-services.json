@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "692619997640",
+    "project_id": "restaurant-booking-3be2f",
+    "storage_bucket": "restaurant-booking-3be2f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:692619997640:android:e9772e9177ae3f07b2d0fd",
+        "android_client_info": {
+          "package_name": "store.twinshop.restaurantbooking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "692619997640-7upl9d9o53ud1l5v4dt7qlfrherpdfm8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "store.twinshop.restaurantbooking",
+            "certificate_hash": "ed09d006e45b2248c27bf7463a19e9efaffae93e"
+          }
+        },
+        {
+          "client_id": "692619997640-offk0dr18tpme33913l4dlbv2ocht3da.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTBv490WUqmLPuANSVe9o0bWghYy_XeZA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "692619997640-offk0dr18tpme33913l4dlbv2ocht3da.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
